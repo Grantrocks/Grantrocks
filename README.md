@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Grantrocks
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning NodeJS,Python,C#
+- 💞️ I’m looking to collaborate on Duino Coin Projects
+- 📫 How to reach me grantrocks@ducotrucocasino.com
